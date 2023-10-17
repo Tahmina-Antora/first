@@ -1,0 +1,3 @@
+This is forgot password functionality
+provide your email
+we will send you verfication code
