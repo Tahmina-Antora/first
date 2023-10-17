@@ -1,0 +1,2 @@
+this is new doc for creating new account
+provide email and password
